@@ -1,2 +1,2 @@
-# hdaip-cloud
+# hdaip-infrastructure
 SMARTeXPLORATE Cloud Infrastructure Configurations + Tools
