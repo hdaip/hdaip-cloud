@@ -1,2 +1,2 @@
 # hdaip-cloud
-SMARTeXPLORATE Cloud Infrastructure Configurations + Tools
+HDaIP.cloud Infrastructure Configurations + Tools
